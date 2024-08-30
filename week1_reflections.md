@@ -1,1 +1,1 @@
-So far I have learned that we will be working with AI to write longer and more complex code than we would otherwise be able to at our level. 
+So far I have learned that we will be working with AI to write more complex code than we would otherwise be able to. We also learned about the different levels of programming languages, and why certain ones are used more than others.
